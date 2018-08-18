@@ -1,0 +1,5 @@
+= ROS-analyse
+
+
+https://no.wikipedia.org/wiki/Risiko-_og_s%C3%A5rbarhetsanalyse[Wikipedia om Risiko- og sårbarhetsanalyse]
+

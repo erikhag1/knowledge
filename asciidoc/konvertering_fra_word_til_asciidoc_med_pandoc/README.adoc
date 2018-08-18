@@ -1,0 +1,13 @@
+== Eksperiment for konvertering fra word til ascidoc
+Erik Hagen, 2018-08-11
+
+Denne mappen inneholder kildefil og resultat for et eksperiment med å konvertere fra word med pandoc.
+
+Kommandolinjen som ble brukt:
+
+pandoc -from docx -to asciidoc --extract-media=images -o emelding_strategi_ref_klaus_2018.adoc emelding_strategi_ref_klaus_2018.docx
+
+Merk:
+
+* La inn linjeskift foran "den store image-figuren" på forsiden for å få figuren til å synes
+* Navn på rapport og dato blir ikke riktig plassert. Skal være på linje ute til høyre, men slik blir det ikke 
